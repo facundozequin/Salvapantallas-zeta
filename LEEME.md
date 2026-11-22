@@ -31,3 +31,6 @@ App Android con tres partes:
 ## Personalizar
 - Imágenes: `app/src/main/res/drawable-nodpi/` (`ring.png` = logo circular, `word.png` = logo horizontal).
 - Densidad de partículas, tamaños y velocidades: constantes al principio de `ZetaRenderer.java` (`Z_GRID`, `W_GRID`).
+
+## App AG
+En la carpeta `ag/` está la misma app con el logo AG, en blanco, negro y grises. Se instala aparte como **AG**, así que puede convivir con Zeta. La compilación genera los dos APK y los publica en Releases: `Zeta.apk` y `AG.apk`.

@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "ZetaWall"
-include ':app'
+include ':app', ':ag'
